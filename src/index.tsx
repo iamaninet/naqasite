@@ -422,7 +422,7 @@ app.get('/', (c) => {
           <div class="contact-icon"><i class="fab fa-twitter"></i></div>
           <div>
             <h4>X</h4>
-            <p>@naqaeco</p>
+            <p>naqaeco@</p>
           </div>
         </div>
         <div class="contact-item">
