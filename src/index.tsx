@@ -415,7 +415,7 @@ app.get('/', (c) => {
           <div class="contact-icon"><i class="fab fa-instagram"></i></div>
           <div>
             <h4>انستغرام</h4>
-            <p>naqa.eco@</p>
+            <p>naqaeco@</p>
           </div>
         </div>
         <div class="contact-item">
