@@ -67,7 +67,7 @@ app.get('/', (c) => {
     <h1 class="hero-title">
       <span class="title-naqaa">نقاء</span>
       <span class="title-sub">تقنية نظيفة.. بيئة نقية</span>
-    </h1>
+    </h1> 
     <p class="hero-desc">
       مبادرة توعوية تهدف إلى تثقيف المجتمع بمخاطر النفايات الإلكترونية، 
       وتعزيز ثقافة الاستدامة البيئية للحفاظ على كوكبنا للأجيال القادمة.
@@ -79,14 +79,14 @@ app.get('/', (c) => {
       </a>
       <a href="#learn" class="btn btn-outline">
         <i class="fa-solid fa-chalkboard-user"></i>
-        انضم للتجربة التعليمية
-      </a>
-    </div>
+       ابدأ رحلة الجهاز الاخير 
+      </a> 
+    </div> 
     <div class="hero-scroll-hint">
       <div class="scroll-dot"></div>
     </div>
   </div>
-</section>
+</section> 
 
 <!-- ========== ABOUT ========== -->
 <section class="about" id="about">
@@ -478,9 +478,11 @@ app.get('/', (c) => {
         </div>
         <p>مبادرة توعوية تُعنى بالتوعية بمخاطر النفايات الإلكترونية وتعزيز ثقافة الاستدامة البيئية في مجتمعاتنا.</p>
         <div class="social-links">
-          <a href="#" class="social-link" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-          <a href="#" class="social-link" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+          <a href="https://instagram.com/naqaeco" class="social-link" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="https://x.com/naqaeco" class="social-link" aria-label="Twitter"><i class="fa-brands fa-x-twitter"></i></a>
           <a href="#" class="social-link" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+          <a href="mailto:naqaeco@gmail.com" class="social-link" aria-label="email"><i class="fa-solid fa-envelope"></i></a>
+
         </div>
       </div>
       <div class="footer-links-col">
@@ -511,8 +513,8 @@ app.get('/', (c) => {
       </div>
     </div>
     <div class="footer-bottom">
-      <p>© 2025 مبادرة نقاء – جميع الحقوق محفوظة</p>
-      <p>صُنع بـ 💚 من أجل بيئة أنظف</p>
+      <p>© 2026 مبادرة نقاء – جميع الحقوق محفوظة</p>
+      <p>صُنع بـ 💚 من أجل بيئة أنقى</p>
     </div>
   </div>
 </footer>
