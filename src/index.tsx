@@ -66,7 +66,7 @@ app.get('/', (c) => {
     </div>
     <h1 class="hero-title">
       <span class="title-naqaa">نقاء</span>
-      <span class="title-sub">تقنية نظيفة... بيئة نقية</span>
+      <span class="title-sub">تقنية نظيفة.. بيئة نقية</span>
     </h1>
     <p class="hero-desc">
       مبادرة توعوية تهدف إلى تثقيف المجتمع بمخاطر النفايات الإلكترونية، 
@@ -77,7 +77,7 @@ app.get('/', (c) => {
         <i class="fas fa-arrow-down"></i>
         اكتشف المبادرة
       </a>
-      <a href="#contact" class="btn btn-outline">
+      <a href="#learn" class="btn btn-outline">
         <i class="fa-solid fa-chalkboard-user"></i>
         انضم للتجربة التعليمية
       </a>
@@ -421,8 +421,8 @@ app.get('/', (c) => {
         <div class="contact-item">
           <div class="contact-icon"><i class="fab fa-twitter"></i></div>
           <div>
-            <h4>تويتر / X</h4>
-            <p>@naqaa_ksa</p>
+            <h4>X</h4>
+            <p>@naqaeco</p>
           </div>
         </div>
         <div class="contact-item">
